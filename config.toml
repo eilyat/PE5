@@ -1,4 +1,4 @@
-baseURL = "https://ecstatic-beaver-76b370.netlify.app/"
+baseURL = "https://stoic-borg-1de544.netlify.app/"
 languageCode = "en-us"
 title = "Principal Economics"
 theme = "hugo-hero-theme"
@@ -7,7 +7,7 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "At Principal Economics we help our clients to find practical robust solutions in a timely manner by prioritising clients’ problem, using frontier economic thinking and our familiarity with a wide range of data and frontier methodologies."
+    meta_description = "economic consultant; Auckland; New zealand; economic impact analysis; cost benefit analysis; centre assessment; data analysis; decision making; econometrics"
     meta_og_title = "Principal Economics"
     meta_og_type = "website"
     meta_og_url = "http://www.principaleconomics.com"
