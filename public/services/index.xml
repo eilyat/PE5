@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Principal Economics</title>
+    <link>https://ecstatic-beaver-76b370.netlify.app/services/</link>
+    <description>Recent content in Services on Principal Economics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://ecstatic-beaver-76b370.netlify.app/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cost benefit analysis</title>
+      <link>https://ecstatic-beaver-76b370.netlify.app/services/cost-benefit-analysis/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ecstatic-beaver-76b370.netlify.app/services/cost-benefit-analysis/</guid>
+      <description>Making decisions in uncertain times needs precise understanding of the costs and benefits. We can assist by identifying fiscal, economic and wellbeing benefits from your investment decision or policy intervention.</description>
+    </item>
+    
+    <item>
+      <title>Forecasting and modelling</title>
+      <link>https://ecstatic-beaver-76b370.netlify.app/services/forecasting-and-modelling/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ecstatic-beaver-76b370.netlify.app/services/forecasting-and-modelling/</guid>
+      <description>Assist with your planning for future investments using best available data and time series analysis.</description>
+    </item>
+    
+    <item>
+      <title>Economic impact analysis</title>
+      <link>https://ecstatic-beaver-76b370.netlify.app/services/economic-impact-analysis/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://ecstatic-beaver-76b370.netlify.app/services/economic-impact-analysis/</guid>
+      <description>Estimate the impact of your activities using our extensive economic assessment frameworks</description>
+    </item>
+    
+    <item>
+      <title>Economic research</title>
+      <link>https://ecstatic-beaver-76b370.netlify.app/services/economic-research/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://ecstatic-beaver-76b370.netlify.app/services/economic-research/</guid>
+      <description>Test a range of hypotheses using data and econometric techniques.</description>
+    </item>
+    
+    <item>
+      <title>Market analysis</title>
+      <link>https://ecstatic-beaver-76b370.netlify.app/services/market-analysis/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://ecstatic-beaver-76b370.netlify.app/services/market-analysis/</guid>
+      <description>Understand the trend of the market and potential impact from your investment on the rest of the market and the regional economy.</description>
+    </item>
+    
+    <item>
+      <title>Spatial analysis and modelling</title>
+      <link>https://ecstatic-beaver-76b370.netlify.app/services/spatial-analysis-and-modelling/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://ecstatic-beaver-76b370.netlify.app/services/spatial-analysis-and-modelling/</guid>
+      <description>The relationships between your investment/intervention and the activities of businesses and households in neighbouring areas.</description>
+    </item>
+    
+  </channel>
+</rss>
