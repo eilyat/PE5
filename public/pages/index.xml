@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Principal Economics</title>
-    <link>https://ecstatic-beaver-76b370.netlify.app/pages/</link>
+    <link>www.principaleconomics.com/pages/</link>
     <description>Recent content in Pages on Principal Economics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     
-	<atom:link href="https://ecstatic-beaver-76b370.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.principaleconomics.com/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://ecstatic-beaver-76b370.netlify.app/about/</link>
+      <link>www.principaleconomics.com/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://ecstatic-beaver-76b370.netlify.app/about/</guid>
+      <guid>www.principaleconomics.com/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History</title>
-      <link>https://ecstatic-beaver-76b370.netlify.app/history/</link>
+      <link>www.principaleconomics.com/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://ecstatic-beaver-76b370.netlify.app/history/</guid>
+      <guid>www.principaleconomics.com/history/</guid>
       <description>About Heading </description>
     </item>
     
