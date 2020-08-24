@@ -1,4 +1,4 @@
-baseURL = "www.principaleconomics.co.nz"
+baseURL = "https://stoic-borg-1de544.netlify.app/"
 languageCode = "en-us"
 title = "Principal Economics"
 theme = "hugo-hero-theme"
