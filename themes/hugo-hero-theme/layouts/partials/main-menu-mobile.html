@@ -5,10 +5,6 @@
     <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
       <a href="{{.URL}}">
         {{ .Pre }}
-        <span class="menu__text">{{ .Name }}</span>
-				<label class="drop-icon" for="{{ .Name }}">▾</label>
-        {{ .Post }}
-
         <span>{{ .Name }}</span>
       </a>
     </li>
