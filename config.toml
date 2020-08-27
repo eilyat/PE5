@@ -18,17 +18,10 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = ""
 
 [[menu.main]]
-    identifier = "services"
 	name = "Services"
 	url = "/services/"
     weight = 1
 
-    [[menu.main]]
-        identifier = "services1"
-        name = "Services"
-        url = "/services/cost-benefit-analysis"
-        parent = "services"
-        weight = 1
 
 [[menu.main]]
     identifier = "work"
