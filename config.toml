@@ -1,4 +1,4 @@
-baseURL = "https://www.principaleconomics.com"
+baseURL = "https://www.principaleconomics.com/"
 languageCode = "en-us"
 title = "Principal Economics"
 theme = "hugo-hero-theme"
