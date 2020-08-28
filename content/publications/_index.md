@@ -6,7 +6,7 @@ heroSubHeading: Recent reports
 title: Recent reports
 ---
 
-There is always a need for better measurement of outcomes of activities. The typical question is what measure to use to capture the impact of an investment on the communities. Our paper provides a robust practical solution for finding the measures that best capture policy maker’s intended outcome and by accounting for communities’ perception of the outcomes – which leads to inclusive growth.
+There is a need for better measurement of the outcomes of activities. The typical question is what measure to use to capture the progress in an intestment and the impact of that investment on the communities. Our paper provides a robust practical solution for finding the measures that best capture policy maker’s intended outcome and by accounting for communities’ perception of the outcomes – which leads to inclusive growth.
 
 Abstract
  
