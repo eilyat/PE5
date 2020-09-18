@@ -103,27 +103,20 @@ o	Reviewer, Journal of Economic Psychology, 2009-2020
 o	Member, Resilience Urban Futures, 2012-2015
 Papers/publications
 -	Torshizian, E., & Grimes, A. 2020. Household Crowding Measures: A Comparison and External Test of Validity. Journal of Happiness Studies, 1-27. August 2020.
--	Torshizian, E. Fehling, A. 2020. Economic impact of COVID-19 on the economic activity in the Wellington and Upper North Island region. Principal Economics report to Transpower. September 2020.
--	Torshizian, E. 2020. Assessment of Electricity Peak Demand in the Wellington and Upper North Island region. Principal Economics report to Transpower. August 2020.
--	Torshizian, E. 2020. Fair fare for Public Transport: estimation of price elasticities of demand. Principal Economics report to Auckland Transport (AT). September 2020.
--	Torshizian, E. 2020. Economic impact of COVID-19 on commodity prices. Principal Economics report to Chorus. August 2020.
--	Torshizian, E. Chaplin, G. 2020. Cost Benefit Analaysis of Kāinga Ora activities in Eastern Porirua, Mangere and Mount Roskill. Principal Economics and NZIER report to Kāinga Ora. September 2020.
--	Torshizian, E. 2020. Economic impact of ATEED activities. Principal Economics and NZIER report to Auckland Tourism, Employment and Economic Development (ATEED).
 -	Torshizian, E. Maralani, M. Isack, E. 2020. Economic impact of research and development in the wine sector. NZIER report to Bragato Research Institute. May 2020.
 -	Torshizian, E. Maralani, M. Leung, C. Isack, E. 2020. Economic impact of COVID-19 on NZ Post. New Zealand Institute of Economic Research (NZIER) report to NZ Post. April 2020
 -	Torshizian, E. Maralani, M. Isack, E. Krieble, T. 2020. Economic impact of Provincial Growth Fund (PGF) investments in Māori economic development. New Zealand Institute of Economic Research (NZIER) report to Ministry of Business, Innovation and Employment (MBIE). April 2020.
 -	Torshizian, E. Leung, C. Maralani, M. Isack, E. Economic impact of Uber Eats. NZIER report to Uber. April 2020.
--	Torshizian, E. Maralani, M. Leung, C. Isack, E. 2020. Economic impact of the Auckland Light Rail Metro: assessing the wider economic benefits of CC2M. NZIER report to NZ Super Fund. March 2020.
--	Torshizian, E. Real Price Effects for Chorus fibre network. NZIER report to Chorus. February 2020.
+-	Torshizian, E. Real Price Effects for Chorus fiber network. NZIER report to Chorus. February 2020.
 -	Torshizian, E. Shaping Future of Dunedin Transport Business Case PBC, Economic case. NZIER report to NZ Transport Agency.
 -	Torshizian, E. Meade, R. Wilson, P. 2019. Estimating Demand for Competition Analysis, a statistical exploration, and some possible applications. NZIER report to the Productivity Hub.
 -	Torshizian, E. 2019. Fiscal, Economic and Wellbeing Effects of Regeneration Activities in Tāmaki, Auckland. Tāmaki Regeneration Company.
 -	Torshizian, E. & Milad Maralani. 2019. The Intergenerational Effects of Regeneration Activities in Tāmaki, Auckland. Tāmaki Regeneration Company.
 -	Torshizian, E. & Milad Maralani. 2019. Business confidence, news, cyclical turning points and economic growth. Presented to NZ Association of Economists conference, Wellington, July. Available here.
 -	Maralani, M. & Eilya Torshizian. 2019. The Impact of US withdrawal from WTO on the New Zealand economy.  Presented to NZ Association of Economists conference, Wellington, July.
--	Torshizian, Eilya. 2018. Economic Impact of Economic World Trade Platform in New Zealand. Alibaba Group.
+-	Torshizian, Eilya. 2018. Economic Impact of Economic World Trade Platform in New Zealand.
 -	Torshizian, 2018. Impact of urban expansions on relative land prices. Presented to NZ Association of Economists, Auckland.
--	Torshizian, 2017. Household Expenditure Benchmarks. Presented to Australia RFi members.
+-	Torshizian, 2017. Household Expenditure Benchmarks. Presented to Australia RFI members.
 -	Morrison, P. & Eilya Torshizian. 2017. Housing involution: demographics and the compact city. NZIER’s working paper 12824.
 -	Torshizian, Eilya & Richard Meade. 2017. Firm-level understanding of competition in New Zealand. NZIER’s working paper.
 -	Stroombergen, A., Bealing, M., Torshizian, E., Poot, J. 2017. Impacts of Socio-Demographic Changes on the New Zealand Land Transport System. NZ Transport Agency.
