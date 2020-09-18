@@ -10,4 +10,4 @@ title: Dr Eilya Torshizian
 weight: 3
 ---
 
-Providing advice and forecasts of the areas of investment in the energy sector.
+Providing advice and forecasts of the arr.
