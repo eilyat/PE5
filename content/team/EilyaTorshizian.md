@@ -7,7 +7,7 @@ heroSubHeading: Dr Eilya Torshizian
 
 thumbnail: https://source.unsplash.com/f_LqKQylUn4/800x600
 title: Dr Eilya Torshizian
-weight: 3
+weight: 2
 ---
 Eilya is a research economist. I am a Director at Principal Economics. Before founding Principal Economics I was a Principal Economist and the Head of Quantitative Analysis Team at New Zealand Institute of Economic Research (NZIER). Before joining NZIER, when Auckland was in the middle of its recent housing crisis, I was at the Chief Economist Unit of Auckland Council. Before that I was lecturing at the University of Auckland. Before that I was the CE of a mineral water manufacturing and was a partner at a holding company active in urban planning and construction, Information Technology and economic advice.
 
