@@ -4,7 +4,7 @@ draft: false
 featured: true
 heroBackground: services/service2.jpg
 heroHeading: Spatial analysis and modelling
-heroSubHeading: Expert advice and guidance when you need it most.
+heroSubHeading: Regions are interconnected.
 icon: services/service-icon-2.png
 title: Spatial analysis and modelling
 ---

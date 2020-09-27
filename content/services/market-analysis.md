@@ -4,7 +4,7 @@ draft: false
 featured: true
 heroBackground: services/service1.jpg
 heroHeading: Market analysis
-heroSubHeading: Saving for retirement requires careful planning.
+heroSubHeading: What's the demand for specific services/products in an area?
 icon: services/service-icon-5.png
 title: Market analysis
 ---

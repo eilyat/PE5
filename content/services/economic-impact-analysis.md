@@ -4,7 +4,7 @@ draft: false
 featured: true
 heroBackground: services/service2.jpg
 heroHeading: Economic impact analysis
-heroSubHeading: Thinking of acquiring another business? Let us guide you through the process.
+heroSubHeading: How much is the contribution of your investment to the regional and national economies?
 icon: services/service-icon-4.png
 title: Economic impact analysis
 ---

@@ -4,7 +4,7 @@ draft: false
 featured: true
 heroBackground: services/service2.jpg
 heroHeading: 'Forecasting and modelling'
-heroSubHeading: Preparing and filing your tax return
+heroSubHeading: Robust forecasts lead to lower costs for businesses and communities
 icon: services/service-icon-6.png
 title: Forecasting and modelling
 weight: 2
