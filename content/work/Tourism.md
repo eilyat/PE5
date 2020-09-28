@@ -1,12 +1,12 @@
 ---
 date: "2018-11-18T12:33:46+10:00"
 draft: false
-heroBackground: images/building.jpg
+heroBackground: images/cargo.jpg
 heroHeading: Assessment of investment in an industry
 heroSubHeading: What's the flow-on impact of an investment to the rest of the economy?
-thumbnail: images/tourism.jpg
-title: Tourism industry
+thumbnail: images/energy.jpg
+title: Investments in the energy sector
 weight: 1
 ---
 
-Economic impact of regional investments in tourism industry.
+Providing advice and forecasts of the areas of investment in the energy sector.
