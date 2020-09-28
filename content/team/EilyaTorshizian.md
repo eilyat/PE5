@@ -5,7 +5,7 @@ heroBackground: images/crowd.jpg
 heroHeading: Team
 heroSubHeading: Dr Eilya Torshizian
 
-thumbnail: images/ET.jpg
+thumbnail: images/ET.png
 title: Dr Eilya Torshizian
 weight: 2
 ---
