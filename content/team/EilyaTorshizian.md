@@ -1,11 +1,11 @@
 ---
 date: "2020-09-18T7:30:00+10:00"
 draft: false
-heroBackground: https://source.unsplash.com/tjX_sniNzgQ/1600x400
+heroBackground: images/crowd.jpg
 heroHeading: Team
 heroSubHeading: Dr Eilya Torshizian
 
-thumbnail: https://source.unsplash.com/f_LqKQylUn4/800x600
+thumbnail: images/ET.jpg
 title: Dr Eilya Torshizian
 weight: 2
 ---
