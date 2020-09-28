@@ -1,7 +1,7 @@
 ---
 date: "2018-11-18T12:33:46+10:00"
 draft: false
-heroBackground: work/work1.jpg
+heroBackground: images/covid.jpg
 heroHeading: Impact of COVID-19 on business activities
 heroSubHeading: How does COVID-19 affect the economy?
 thumbnail: images/stayhome.jpg
