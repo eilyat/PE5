@@ -1,10 +1,10 @@
 ---
 date: "2018-11-18T12:33:46+10:00"
 draft: false
-heroBackground: https://source.unsplash.com/iqGtaQnk3VM/1600x400
+heroBackground: images/demographic.jpg
 heroHeading: Population and demographic profiles
 heroSubHeading: What's the change in the features of population (and their demand) in the next 10, 20, 30 years?
-thumbnail: https://source.unsplash.com/a8YV2C3yBMk/600x400
+thumbnail: images/demographic.jpg
 title: Population and demographic profiles
 weight: 2
 ---
