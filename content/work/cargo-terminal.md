@@ -1,7 +1,7 @@
 ---
-date: "2018-11-18T12:33:46+10:00"
+date: "2020-09-29T10:03:46+10:00"
 draft: false
-heroBackground: images/stayhome.jpg
+heroBackground: images/cargo.jpg
 heroHeading: Investments in industries
 heroSubHeading: Investments in industries
 
