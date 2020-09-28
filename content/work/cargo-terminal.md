@@ -1,11 +1,11 @@
 ---
 date: "2018-11-18T12:33:46+10:00"
 draft: false
-heroBackground: https://source.unsplash.com/tjX_sniNzgQ/1600x400
+heroBackground: images/stayhome.jpg
 heroHeading: Investments in industries
 heroSubHeading: Investments in industries
 
-thumbnail: https://source.unsplash.com/f_LqKQylUn4/800x600
+thumbnail: images/energy.jpg
 title: Investments in the energy sector
 weight: 3
 ---
