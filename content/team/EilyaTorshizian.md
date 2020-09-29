@@ -7,7 +7,7 @@ heroSubHeading: PhD
 
 thumbnail: ""
 title: Dr Eilya Torshizian
-weight: 2
+weight: 1
 ---
 Eilya is the Director of Principal Economics. 
 
