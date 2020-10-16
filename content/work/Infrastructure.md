@@ -4,8 +4,8 @@ draft: false
 heroBackground: images/cargo.jpg
 heroHeading: Impact of infrastructure
 heroSubHeading: Infrastructure opens up so many opportunities to businesses and communities
-thumbnail: images/infrustructure.jpg
-title: Investments in the energy sector
+thumbnail: images/infrastructure.jpg
+title: Infrastructure and the economy
 weight: 2
 ---
 
