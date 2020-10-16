@@ -6,7 +6,7 @@ heroHeading: Assessment of investment in an industry
 heroSubHeading: What's the flow-on impact of an investment to the rest of the economy?
 thumbnail: images/energy.jpg
 title: Investments in the energy sector
-weight: 3
+weight: 4
 ---
 
 Providing advice and forecasts of the areas of investment in the energy sector.
