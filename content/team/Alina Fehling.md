@@ -4,9 +4,13 @@ draft: false
 heroBackground: images/crowd.jpg
 heroHeading: Team
 heroSubHeading: Alina Fehling
+heroSubHeading: Economist
 
 thumbnail: ""
+photo: "images/Alina.jpg"
 title: Alina Fehling
+Education: BSc
+Ed: Massey University 
 weight: 2
 ---
 Alina is an Economist at Principal Economics. 
