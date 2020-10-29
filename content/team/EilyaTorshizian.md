@@ -1,30 +1,21 @@
 ---
 date: "2020-09-18T7:30:00+10:00"
 draft: false
-heroBackground: "images/team.png"
+heroBackground: "images/team.jpg"
 heroHeading: Eilya Torshizian
 heroSubHeading: PhD
 
-thumbnail: "images/ET.jpg"
+thumbnail: "images/ET.png"
 title: Dr Eilya Torshizian
-Education: PhD
-Ed: PhD in Economics, The University of Auckland; Thesis title “Effects of Crowding, Density and Deprivation on Residential Satisfaction”. Supervised by Professor Arthur Grimes.
-weight: 2
+Education: PhD in Economics
+Ed: The University of Auckland; Thesis title “Effects of Crowding, Density and Deprivation on Residential Satisfaction”. Supervised by Professor Arthur Grimes.
+weight: 1
 ---
 Eilya is the Director of Principal Economics. 
 
 Before founding Principal Economics Eilya was a Principal Economist and the Head of Quantitative Analysis Team at New Zealand Institute of Economic Research (NZIER). Before joining NZIER, when Auckland was in the middle of its recent housing crisis, Eilya was at the Chief Economist Unit of Auckland Council. Before that Eilya was lecturing at the University of Auckland. Before that Eilya was the CE of a mineral water manufacturing and was a partner at a holding company active in urban planning and construction, Information Technology and economic advice.
 
-Education
-2011- 2016: 	PhD in Economics, The University of Auckland
-Thesis title: “Effects of Crowding, Density and Deprivation on Residential Satisfaction”.
-Supervisor: Professor Arthur Grimes.
-2009 - 2010: 	Master in Economics, The University of Tehran
-[Microeconomics, Macroeconomics, Econometrics, Applied Econometrics, Game Theory, Mathematics for Economics, Advanced Macroeconomics]
-Thesis title: “The Economics of Happiness, the case of the Kish Island”
-2004-2008:	B. Sc. in (theoretical) Economics, The University of Tehran.
-2004-2008: 	B. Sc. in Information Technology Engineering, Iran University of Science and Technology.
-		Final project on process management in the Linux kernel 2.6.
+
 Work Experience (non-academic)
 Aug 2020-Now:	Director of Principal Economics.
 	Provide client-based solutions and establish long-lasting relationship with our clients
