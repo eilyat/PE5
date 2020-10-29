@@ -24,11 +24,11 @@ Eilya is the Director of Principal Economics. Before founding Principal Economic
 
 # Recent publications
 
-- Torshizian, E. Isack, E. Fair fare for public transport. Principal Economics and NZIER report to Auckland Transport.
-- Torshizian, E. Impact of COVID-19 on real price indices. Principal Economics and NZIER report to Chorus.
-- Torshizian, E., & Grimes, A. 2020. Household Crowding Measures: A Comparison and External Test of Validity. Journal of Happiness Studies, 1-27. August 2020.
-- Torshizian, E. Maralani, M. Isack, E. 2020. Economic impact of research and development in the wine sector. NZIER report to Bragato Research Institute. May 2020.
-- Torshizian, E. Maralani, M. Isack, E. Krieble, T. 2020. Economic impact of Provincial Growth Fund (PGF) investments in Māori economic development. New Zealand Institute of Economic Research (NZIER) report to Ministry of Business, Innovation and Employment (MBIE). April 2020.
+	- Torshizian, E. Isack, E. Fair fare for public transport. Principal Economics and NZIER report to Auckland Transport.
+	- Torshizian, E. Impact of COVID-19 on real price indices. Principal Economics and NZIER report to Chorus.
+	- Torshizian, E., & Grimes, A. 2020. Household Crowding Measures: A Comparison and External Test of Validity. Journal of Happiness Studies, 1-27. August 2020.
+	- Torshizian, E. Maralani, M. Isack, E. 2020. Economic impact of research and development in the wine sector. NZIER report to Bragato Research Institute. May 2020.
+	- Torshizian, E. Maralani, M. Isack, E. Krieble, T. 2020. Economic impact of Provincial Growth Fund (PGF) investments in Māori economic development. New Zealand Institute of Economic Research (NZIER) report to Ministry of Business, Innovation and Employment (MBIE). April 2020.
 - Torshizian, E. Leung, C. Maralani, M. Isack, E. Economic impact of Uber Eats. NZIER report to Uber. April 2020.
 - Torshizian, E. Real Price Effects for Chorus fiber network. NZIER report to Chorus. February 2020.
 - Torshizian, E. Shaping Future of Dunedin Transport Business Case PBC, Economic case. NZIER report to NZ Transport Agency.
