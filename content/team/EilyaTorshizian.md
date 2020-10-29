@@ -15,22 +15,17 @@ weight: 1
 Eilya is the Director of Principal Economics. Before founding Principal Economics Eilya was a Principal Economist and the Head of Quantitative Analysis Team at New Zealand Institute of Economic Research (NZIER). Before joining NZIER, when Auckland was in the middle of its recent housing crisis, Eilya was at the Chief Economist Unit of Auckland Council. Before that Eilya was lecturing at the University of Auckland. Before that Eilya was the CE of a mineral water manufacturing and was a partner at a holding company active in urban planning and construction, Information Technology and economic advice.
 
 Memberships
-
 2015-2019:	Member, Regional Science Association Institute.
-
 2015-2019:	Member, Western Economic Association International.
-
 2013-2019:	Member, Resilient Urban Futures’ infrastructure research team.
-
 2013-2019:	Member, New Zealand Association of Economists.
-
 2011-2019:	Reviewer, Journal of Economic Psychology.
 
 Recent publications
-
+-	Torshizian, E. Fair fare for public transport. Principal Economics and NZIER report to Auckland Transport.
+-	Torshizian, E. Impact of COVID-19 on real price indices. Principal Economics and NZIER report to Chorus.
 -	Torshizian, E., & Grimes, A. 2020. Household Crowding Measures: A Comparison and External Test of Validity. Journal of Happiness Studies, 1-27. August 2020.
 -	Torshizian, E. Maralani, M. Isack, E. 2020. Economic impact of research and development in the wine sector. NZIER report to Bragato Research Institute. May 2020.
--	Torshizian, E. Maralani, M. Leung, C. Isack, E. 2020. Economic impact of COVID-19 on NZ Post. New Zealand Institute of Economic Research (NZIER) report to NZ Post. April 2020
 -	Torshizian, E. Maralani, M. Isack, E. Krieble, T. 2020. Economic impact of Provincial Growth Fund (PGF) investments in Māori economic development. New Zealand Institute of Economic Research (NZIER) report to Ministry of Business, Innovation and Employment (MBIE). April 2020.
 -	Torshizian, E. Leung, C. Maralani, M. Isack, E. Economic impact of Uber Eats. NZIER report to Uber. April 2020.
 -	Torshizian, E. Real Price Effects for Chorus fiber network. NZIER report to Chorus. February 2020.
