@@ -5,11 +5,11 @@
 {{ define "main" }}
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "section" .Section "content" .)}}
 <div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+
   <div class="row justify-content-start">
-    <div class="col-12 col-md-8">
-      <div class="work work-single">
-        <div class="content">{{.Content}}</div>
-      </div>
+    <div class="row">
+      <div class="col-8">{{.Content}}</div>
+      <div class="col-4">{{.Render "summary2" }}</div>
     </div>
     {{ if .Params.images }}
     <div class="col-12 pt-4 pt-md-10">
@@ -25,7 +25,9 @@
     {{ end }}
   </div>
 </div>
+
 {{ end }}
+
 
 {{ define "footer_js" }}
 {{ $library := resources.Get "js/libs/library.js" }}

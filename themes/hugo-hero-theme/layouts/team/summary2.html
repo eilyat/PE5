@@ -1,0 +1,13 @@
+<div class="education">
+  {{ if .Params.thumbnail }}
+  <div class="work-image">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.photo | relURL }}"/></a>
+  </div>
+  {{ end }}
+  <div class="work-content">
+    <h4 class="work-title">
+      <a href="{{ .Permalink }}">{{ .Params.Education }}</a>
+    </h4>
+    {{ .Params.Ed | truncate 500 "..." | plainify }}
+  </div>
+</div>
