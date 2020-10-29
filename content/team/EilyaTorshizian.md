@@ -16,11 +16,11 @@ Eilya is the Director of Principal Economics. Before founding Principal Economic
 
 # Memberships
 
-2015-2019:	Member, Regional Science Association Institute.
-2015-2019:	Member, Western Economic Association International.
-2013-2019:	Member, Resilient Urban Futures’ infrastructure research team.
-2013-2019:	Member, New Zealand Association of Economists.
-2011-2019:	Reviewer, Journal of Economic Psychology.
+- Member, Regional Science Association Institute.
+- Member, Western Economic Association International.
+- Member, Resilient Urban Futures’ infrastructure research team.
+- Member, New Zealand Association of Economists.
+- Reviewer, Journal of Economic Psychology.
 
 # Recent publications
 
