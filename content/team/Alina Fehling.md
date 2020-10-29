@@ -5,8 +5,8 @@ heroBackground: images/crowd.jpg
 heroHeading: Alina Fehling
 heroSubHeading: Economist
 
-thumbnail: "images/Alina.jpg"
-photo: "images/Alina.jpg"
+thumbnail: ""
+photo: ""
 title: Alina Fehling
 Education: BSc
 Ed: Massey University 
