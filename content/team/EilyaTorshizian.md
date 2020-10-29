@@ -1,13 +1,15 @@
 ---
 date: "2020-09-18T7:30:00+10:00"
 draft: false
-heroBackground: "images/team.jpg"
-heroHeading: Dr Eilya Torshizian
+heroBackground: "images/team.png"
+heroHeading: Eilya Torshizian
 heroSubHeading: PhD
 
-thumbnail: ""
+thumbnail: "images/ET.jpg"
 title: Dr Eilya Torshizian
-weight: 1
+Education: PhD
+Ed: PhD in Economics, The University of Auckland; Thesis title “Effects of Crowding, Density and Deprivation on Residential Satisfaction”. Supervised by Professor Arthur Grimes.
+weight: 2
 ---
 Eilya is the Director of Principal Economics. 
 
