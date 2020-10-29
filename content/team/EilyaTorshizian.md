@@ -15,6 +15,7 @@ weight: 1
 Eilya is the Director of Principal Economics. Before founding Principal Economics Eilya was a Principal Economist and the Head of Quantitative Analysis Team at New Zealand Institute of Economic Research (NZIER). Before joining NZIER, when Auckland was in the middle of its recent housing crisis, Eilya was at the Chief Economist Unit of Auckland Council. Before that Eilya was lecturing at the University of Auckland. Before that Eilya was the CE of a mineral water manufacturing and was a partner at a holding company active in urban planning and construction, Information Technology and economic advice.
 
 Memberships
+
 2015-2019:	Member, Regional Science Association Institute.
 2015-2019:	Member, Western Economic Association International.
 2013-2019:	Member, Resilient Urban Futures’ infrastructure research team.
@@ -22,6 +23,7 @@ Memberships
 2011-2019:	Reviewer, Journal of Economic Psychology.
 
 Recent publications
+
 -	Torshizian, E. Fair fare for public transport. Principal Economics and NZIER report to Auckland Transport.
 -	Torshizian, E. Impact of COVID-19 on real price indices. Principal Economics and NZIER report to Chorus.
 -	Torshizian, E., & Grimes, A. 2020. Household Crowding Measures: A Comparison and External Test of Validity. Journal of Happiness Studies, 1-27. August 2020.
