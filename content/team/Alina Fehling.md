@@ -2,8 +2,7 @@
 date: "2020-09-18T7:30:00+10:00"
 draft: false
 heroBackground: images/crowd.jpg
-heroHeading: Team
-heroSubHeading: Alina Fehling
+heroHeading: Alina Fehling
 heroSubHeading: Economist
 
 thumbnail: ""
