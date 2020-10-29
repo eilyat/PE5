@@ -12,92 +12,22 @@ Education: PhD in Economics
 Ed: The University of Auckland; Thesis title “Effects of Crowding, Density and Deprivation on Residential Satisfaction”. Supervised by Professor Arthur Grimes.
 weight: 1
 ---
-Eilya is the Director of Principal Economics. 
+Eilya is the Director of Principal Economics. Before founding Principal Economics Eilya was a Principal Economist and the Head of Quantitative Analysis Team at New Zealand Institute of Economic Research (NZIER). Before joining NZIER, when Auckland was in the middle of its recent housing crisis, Eilya was at the Chief Economist Unit of Auckland Council. Before that Eilya was lecturing at the University of Auckland. Before that Eilya was the CE of a mineral water manufacturing and was a partner at a holding company active in urban planning and construction, Information Technology and economic advice.
 
-Before founding Principal Economics Eilya was a Principal Economist and the Head of Quantitative Analysis Team at New Zealand Institute of Economic Research (NZIER). Before joining NZIER, when Auckland was in the middle of its recent housing crisis, Eilya was at the Chief Economist Unit of Auckland Council. Before that Eilya was lecturing at the University of Auckland. Before that Eilya was the CE of a mineral water manufacturing and was a partner at a holding company active in urban planning and construction, Information Technology and economic advice.
-
-
-Work Experience (non-academic)
-Aug 2020-Now:	Director of Principal Economics.
-	Provide client-based solutions and establish long-lasting relationship with our clients
-	Make the strategic and operational decisions
-	Lead our team of economists to provide innovative, robust and market-driven solutions
-	Collaborate with research institutes, universities and public sectors to improve the quality of economic advice.
-	Public speech and providing public awareness of economic issues
-2017- 2020:	Principal Economsit and Head of Quantitative Analysis Team of NZIER.
-	Lead innovative quantitative solutions for the institute and the clients
-	Provide technical support and mentoring the quantitative team members (consisting of eight people)
-	Providing economic advice for a wide range issues, including macroeconomic trends, market analysis, transport and regional economics
-	Collaborate with research institutes, universities and public sectors to improve the quality of economic advice.
-	Public speech and providing public awareness of economic issues
-
-2016-2017:	Chief Econometrician and Senior Economist of NZIER.
-	Providing economic advice for a wide range issues, including urban and infrastructure, taxing policy, trade, banking, social issues and health.
-	Collaborate with research institutes, universities and public sectors to improve the quality of economic advice.
-	Provide robust evidence based economic advice for different clients using innovative economic valuation techniques
-	Public speech and providing public awareness of economic issues
-
-2015-2016:	The Economist of the Chief Economist Unit (CEU) at Auckland Council.
-	Undertake & promote analysis of urban public policy issues using spatial econometric methods
-	Recommending, fundraising and supervising council’s CGE model for providing better understanding of housing affordability and water quality policies
-	Collaborate with the research unit (RIMU) and other Council experts to develop Auckland’s urban economic research programme and policy development
-	Provide robust evidence based economic advice on urban economic issues to the Chief Economist, executive team, mayor and elected representatives for the purpose of ensure continual improvement to urban policy settings
-	Public speech and providing necessary materials for mayor’s public talks
-	Contribute to the CEU’s periodic publications
-
-2010-2011:		Partner and Member of the board of directors at Rateb Construction and Development Co.
-	Establish broad policies and objectives of this holding company (with 40 staff) in a recessionary economy
-	Manage the Economic and the Information Technology departments (with 8 staff)
-	Recommend and manage the development of a project management software for the construction projects
-	Setting the salaries and compensation of company management
-2009-2010:	Chief executive officer of Exir Kish mineral water manufacturer.
-	Manage the manufacturer (with 20 staff)
-	Improve the production of the manufacturer from 20 to 360 units/day
-	Establish relationship with stakeholders, members of the board, government and local organisations, labourers.
-Projects
--	Economic contribution studies 
-I frequently lead teams that estimate specific sectors’ contribution to the New Zealand economy, or regions within it. Using NZIER’s Computable General Equilibrium (CGE) models, these projects look at how growth in one sector flows through the economy, generating additional jobs, wages and exports. Such reports have been written for the professional services, dairy, kiwifruit, red meat, and other industries. 
-
--	Shaping future of Dunedin Transport. New Zealand Transport Agency (NZTA), 2020
-I led the economic assessment of a major transport project in Dunedin. The estimation of wellbeing outcomes for the Dunedin communities of different interventions is combined with stakeholder engagement. This ensures the consistency of the policy target with how the community defines the desired outcomes.
-
--	Empirical Wellbeing Approach to Total Impact Reporting for Tāmaki Regeneration Programme, 2019
-I supervised and developed a total impact reporting tool capturing the fiscal, economic and well-being outcomes of regional investments in Tāmaki. The tool is consistent with Treasury’s Wellbeing approach and provides estimates of non-monetised values of regional investments.
-
--	Ashburton labour Force Plan: Assessing Ashburton’s labour force and addressing its labour shortages
-I supervised and developed measures of Quality of Life and Quality of Business in New Zealand. Using this innovative approach, we estimated the shortage of labour compared to an unobserved status of the economy, asking what if Ashburton would have reached its potential quality of life and qualify of business? See the report here.
-
--	Trade liberalisation, FTAs and regional economic integration  
-I have written numerous reports looking at how trade liberalisation, free trade agreements (FTAs) and regional integration initiatives deliver economic benefits and present difficult trade-offs. For these studies I used innovative frontier econometric approaches and the GTAP CGE model. These reports have informed domestic and international trade negotiators as they consider the optimal approach to pursuing regional trade liberalisation; and helped inform the public and firms about opportunities and risks.  
-
--	The economic impact of a large-scale regional investment, 2019
-I managed this study of a (relatively) large-scale regional investment. The study used our Regional Computational General Equilibrium models to understand the interactions between different economic sectors (across industries, between households and industries, at regional and national levels).
-
--	Impacts of Socio-Demographic Changes on the New Zealand Land Transport System, 2018
-The study investigates the impact of socioeconomic factors on demand for personal land travel and private vehicle using NZIER’s Regional Land Transport Demand model. See the report here.
-
--	The impact of drinking during pregnancy on children behavioural outcomes
-I provided analytical inputs to this study and developed the modelling framework using Growing Up in New Zealand (GUINZ) data.
-
--	Impacts of Upgrades of the Lower North Island road transport, 2017 
-The study investigated the impact of upgrades in the road transport on the socioeconomic outcomes for different industries located in areas as granular as area unit levels. 
-
--	Effects of Crowding, Density and Deprivation on Residential Satisfaction, 2017 
-This study investigates the impact of factors of living on the wellbeing outcomes for Aucklanders. This is the first economic study using a wide range of factors of living to explain a non-price outcome. See the study here.
-
--	A Computational General Equilibrium Model (CGE) Approach to Urban Freshwater Planning, 2016
-I recommended, raised funds and supervised this study providing a robust framework for understanding the trade-offs between urban development and environmental outcomes. See the study here.
-
-Research contributions
--	Contribution of my PhD thesis:
-o	The first study, internationally, that: aims at residents’ satisfaction with their residential environment rather than at prices; accounts for the role of relative positions of households and households’ expectations on their understanding of their living environment; empirically assesses the causal impact of the factors of space, such as density, on household’s residential satisfaction. 
-o	The first study, in New Zealand: assessing the impact of intensification on Aucklanders’ residential satisfaction; Merging individual level data with neighbourhood characteristics and geospatial datasets; introducing the best definition for neighbourhood boundaries and introducing exogenous of neighbourhood segregation in Auckland.
 Memberships
-o	Member, New Zealand Association of Economists, 2013-2020
-o	Member, Regional Science Association, 2014-2020
-o	Reviewer, Journal of Economic Psychology, 2009-2020
-o	Member, Resilience Urban Futures, 2012-2015
-Papers/publications
+
+2015-2019:	Member, Regional Science Association Institute.
+
+2015-2019:	Member, Western Economic Association International.
+
+2013-2019:	Member, Resilient Urban Futures’ infrastructure research team.
+
+2013-2019:	Member, New Zealand Association of Economists.
+
+2011-2019:	Reviewer, Journal of Economic Psychology.
+
+Recent publications
+
 -	Torshizian, E., & Grimes, A. 2020. Household Crowding Measures: A Comparison and External Test of Validity. Journal of Happiness Studies, 1-27. August 2020.
 -	Torshizian, E. Maralani, M. Isack, E. 2020. Economic impact of research and development in the wine sector. NZIER report to Bragato Research Institute. May 2020.
 -	Torshizian, E. Maralani, M. Leung, C. Isack, E. 2020. Economic impact of COVID-19 on NZ Post. New Zealand Institute of Economic Research (NZIER) report to NZ Post. April 2020
@@ -144,28 +74,6 @@ This study comparesthe information content of subjective versus objective measur
 -	Torshizian, Eilya. 2013. New Zealand’s Defense News Shocks, 1930-2012: Estimates Based on News Sources. mimeo.
 -	Torshizian, Eilya & Mohsen Mehrara. 2011. The effects of Economy, Values and Health on Happiness in Iran: the case of the Kish Island, MPRA Working Paper No. 30085.
 
-•	Advisor of
-2010:		Master thesis on "Calendar effects in stock market returns".
-2009:		Master thesis on "Effects of Macroeconomic indices over inverse of PE".
-Honours and awards
-2013: 	Receiving the Auckland Council Chief Economist Research Scholarship in Urban Economics.
-2004: 	Receiving the government’s 5-year scholarship for bachelor studies.
-Academic Experience	
-2015:		Lecturer of Economics at the University of Auckland.
-	Teach 2nd year Econometrics
-	Recieved 76% positive feedback on the lectures
-	Added new topics to the course content and successfully improved students’ skill in working with data and Stata 
-2011-2016:	University of Auckland. Here is the list of courses that I have taught at both the postgraduate and undergraduate levels: postgraduate and undergraduate applied econometrics, foundations of Economic Analysis, Game Theory and Economic Applications, Macroeconomics and Microeconomics, Business Analytics.
-	Improved my teaching skills and received high satisfaction with my tutorials over years
-Retain and improve my knowledge of economic thoughts
-2012-2014: 	University of Auckland, Research assistant in a project jointly done with the university of Harvard on New Zealanders’ responses to government’s purchases and taxes.
-Developed an advanced understanding of New Zealand’s economy
-2004-2010: 	University of Tehran. Tutoring postgraduate and undergraduate applied econometrics, macroeconomics, microeconomics, EViews, Mathematics and Statistics.
-Extracurricular Activities
 
-2015-2019:	Member, Regional Science Association Institute.
-2015-2019:	Member, Western Economic Association International.
-2013-2019:	Member, Resilient Urban Futures’ infrastructure research team.
-2013-2019:	Member, New Zealand Association of Economists.
-2011-2019:	Reviewer, Journal of Economic Psychology.
+
     
