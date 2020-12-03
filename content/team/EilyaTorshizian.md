@@ -5,7 +5,7 @@ heroBackground: "images/team.jpg"
 heroHeading: Eilya Torshizian
 heroSubHeading: Director
 
-thumbnail: ""
+thumbnail: "images/Eilya Torshizian.jpeg"
 photo: "images/Eilya Torshizian.jpeg"
 title: Dr Eilya Torshizian
 Education: PhD in Economics
