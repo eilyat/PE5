@@ -5,7 +5,7 @@ heroBackground: images/crowd.jpg
 heroHeading: Alina Fehling
 heroSubHeading: Economist
 
-thumbnail: ""
+thumbnail: "images/Alina Fehling.jpeg"
 photo: ""
 title: Alina Fehling
 Education: BSc
