@@ -16,6 +16,7 @@ Eilya is the Director of Principal Economics. Before founding Principal Economic
 
 # Memberships
 
+- Member, Institute of Directors.
 - Member, Regional Science Association Institute.
 - Member, Western Economic Association International.
 - Member, Resilient Urban Futures’ infrastructure research team.
