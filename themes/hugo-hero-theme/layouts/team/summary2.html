@@ -9,7 +9,8 @@
       <a href="{{ .Permalink }}">{{ .Params.Education }}</a>
     </h4>
     {{ .Params.Ed | truncate 500 "..." | plainify }}
+    <h4 class="work-title">
+      <a href="{{ .Permalink }}">{{ .Params.Phone }}</a>
     </h4>
-    {{ .Params.Phone | truncate 500 "..." | plainify }}
   </div>
 </div>
