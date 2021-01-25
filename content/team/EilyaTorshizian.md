@@ -10,7 +10,7 @@ photo: "images/Eilya Torshizian.jpeg"
 title: Dr Eilya Torshizian
 Education: PhD in Economics
 Ed: Email eilya@principaleconomics.com
-Phone: '0221564529'
+Phone: Phone '0064 22 1564529'
 weight: 1
 ---
 Eilya is the Director of Principal Economics. Before founding Principal Economics Eilya was a Principal Economist and the Head of Quantitative Analysis Team at New Zealand Institute of Economic Research (NZIER). Prior to that, when Auckland was in the middle of its recent housing crisis, Eilya was at the Chief Economist Unit of Auckland Council. Before that Eilya was lecturing at the University of Auckland. Before that Eilya was the CE of a mineral water manufacturing and was a partner at a holding company active in urban planning and construction, Information Technology and economic advice.
