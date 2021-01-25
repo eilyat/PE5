@@ -8,7 +8,7 @@ heroSubHeading: Director
 thumbnail: "images/Eilya Torshizian.jpeg"
 photo: "images/Eilya Torshizian.jpeg"
 title: Dr Eilya Torshizian
-Education: eilya[at]principaleconomics[dot]com
+Education: 'eilya@principaleconomics.com'
 Ed:PhD in Economics; The University of Auckland; Thesis title “Effects of Crowding, Density and Deprivation on Residential Satisfaction”. Supervised by Professor Arthur Grimes.
 weight: 1
 ---
