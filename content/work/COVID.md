@@ -9,7 +9,9 @@ title: Economic impact of COVID-19
 weight: 1
 ---
 
-Assist with assessment of the impact of COVID-19 on demand for your investments.
+We assisted with assessment of the impact of COVID-19 on demand for a range of services.
+
+# Recent work:
 
 We assisted with Chorus's submission to Commerce Commission to account for the impact of COVID-19 on the forecasts for the cost escalation series. 
 
