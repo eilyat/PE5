@@ -10,3 +10,7 @@ weight: 4
 ---
 
 Providing advice and forecasts of the areas of investment in the energy sector.
+
+# Relevant reports
+
+Multiple reports on demand and demand peak (will be available on our clients' website).
