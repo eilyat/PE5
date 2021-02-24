@@ -9,7 +9,7 @@ title: Economic impact of COVID-19
 weight: 1
 ---
 
-We assisted with assessment of the impact of COVID-19 on demand for a range of services.
+We assisted with assessments of the impact of COVID-19 on demand for a range of services.
 
 # Recent work:
 
