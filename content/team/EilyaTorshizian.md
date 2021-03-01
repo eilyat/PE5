@@ -26,15 +26,16 @@ Eilya is the Director of Principal Economics. Before founding Principal Economic
 
 # Recent publications
 
+- Torshizian, E. 2021. Social Cost Benefit Framework for MSD interventions. Ministry of Social Development (MSD).
 - Torshizian, E. Isack, E. 2020. Fair fare for public transport. Principal Economics and NZIER report to Auckland Transport.
 - Torshizian, E. 2020. Impact of COVID-19 on real price indices. Principal Economics and NZIER report to Chorus.
 - Torshizian, E., & Grimes, A. 2020. Household Crowding Measures: A Comparison and External Test of Validity. Journal of Happiness Studies, 1-27. August 2020.
 - Torshizian, E. Maralani, M. Isack, E. 2020. Economic impact of research and development in the wine sector. Bragato Research Institute. May 2020.
 - Torshizian, E. Maralani, M. Isack, E. Krieble, T. 2020. Economic impact of Provincial Growth Fund (PGF) investments in Māori economic development. Ministry of Business, Innovation and Employment (MBIE). April 2020.
-- Torshizian, E. Leung, C. Maralani, M. Isack, E. Economic impact of Uber Eats. NZIER report to Uber. April 2020.
-- Torshizian, E. Real Price Effects for Chorus fiber network. NZIER report to Chorus. February 2020.
-- Torshizian, E. Shaping Future of Dunedin Transport Business Case PBC, Economic case. NZIER report to NZ Transport Agency.
-- Torshizian, E. Meade, R. Wilson, P. 2019. Estimating Demand for Competition Analysis, a statistical exploration, and some possible applications. NZIER report to the Productivity Hub.
+- Torshizian, E. Leung, C. Maralani, M. Isack, E. Economic impact of Uber Eats. Uber. April 2020.
+- Torshizian, E. Real Price Effects for Chorus fibre network. Chorus. February 2020.
+- Torshizian, E. Shaping Future of Dunedin Transport Business Case PBC, Economic case. NZ Transport Agency.
+- Torshizian, E. Meade, R. Wilson, P. 2019. Estimating Demand for Competition Analysis, a statistical exploration, and some possible applications. Productivity Hub.
 - Torshizian, E. 2019. Fiscal, Economic and Wellbeing Effects of Regeneration Activities in Tāmaki, Auckland. Tāmaki Regeneration Company.
 - Torshizian, E. & Milad Maralani. 2019. Business confidence, news, cyclical turning points and economic growth. Presented to NZ Association of Economists conference, Wellington, July. Available here.
 - Maralani, M. & Eilya Torshizian. 2019. The Impact of US withdrawal from WTO on the New Zealand economy.  Presented to NZ Association of Economists conference, Wellington, July.
