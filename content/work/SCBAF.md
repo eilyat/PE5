@@ -1,7 +1,7 @@
 ---
 date: "2018-11-18T12:33:46+10:00"
 draft: false
-heroBackground: images/covid.jpg
+heroBackground: images/demographic.jpg
 heroHeading: Social Cost Benefit Analysis Framework
 heroSubHeading: Robust CBA to ensure that decision-makers are aware of all the potential trade-offs
 thumbnail: images/SCBAF.jpg
