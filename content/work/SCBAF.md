@@ -9,6 +9,8 @@ title: Social Cost Benefit Analysis
 weight: 5
 ---
 
-We developed the Social Cost Benefit Framework (SCBAF) for impact evaluation of individual interventions, with a focus on employment assistance (EA) interventions.
+We developed the Social Cost Benefit Framework (SCBAF) for impact evaluation of individual interventions, with a focus on employment assistance (EA) programmes.
 
 This report provides an outline of a social cost benefit framework (SCBAF) that is designed to ensure decision-makers are aware of all the potential trade-offs they face when deciding on the future of any given intervention. 
+
+For more information contact [Eilya Torshizian](https://www.principaleconomics.com/team/eilyatorshizian/).
