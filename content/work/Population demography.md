@@ -16,5 +16,7 @@ For more information contact [Alina Fehling](https://www.principaleconomics.com/
 # Relevant work:
 
 Torshizian, E. & Isack, E. 2020. Fair fare for public transport. Auckland Transport.
+
 [Torshizian, E. 2020. Impact of Covid-19 on real price indices. Chorus's submission to Commerce Commision.](https://comcom.govt.nz/__data/assets/pdf_file/0021/234363/Chorus-NZIER-report-September-2020-16-December-2020.pdf)
+
 Torshizian, E. & Fehling, A. 2021. Impact of Covid-19 on factors of electricity demand. Confidential.
