@@ -14,8 +14,11 @@ Phone:
 weight: 3
 ---
 We are looking for one (senior) economist to join our team.
+
 -Using principles of Economics to provide advice on a wide range of topical issues
+
 -Working in an adhocracy and transparent organisational culture with supportive colleagues
+
 -Wellington or Auckland location
 
 
