@@ -45,7 +45,7 @@ Familiarity with economic theories and different methodologies, such as economet
 
 # Qualifications and experience 
 
-Preferably you hold a have a first-class honours degree or higher qualification in Economics, Statistics, or related studies. We prioritise experienced candidates, with a minimum of five years relevant experience working in local or central government or consulting firms. 
+Preferably you have a first-class honours degree or higher qualification in Economics, Statistics, or related studies. We prioritise experienced candidates, with a minimum of five years relevant experience working in local or central government or consulting firms. 
 
 # Application close 
 
