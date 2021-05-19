@@ -1,0 +1,41 @@
+---
+date: "2020-09-18T7:30:00+10:00"
+draft: false
+heroBackground: "images/team.jpg"
+heroHeading: Economist Position
+heroSubHeading: (Senior) Economist
+
+thumbnail: 
+photo: "images/Eilya Torshizian.jpeg"
+title: (Senior) Economist position
+Education: 
+Ed: 
+Phone: 
+weight: 3
+---
+We are looking for one (senior) economist to join our team. 
+
+# About us
+
+Principal Economics is an economic consultancy providing evidence-based decision support for public and private clients. We have been working on a range of important topics around infrastructure, housing, social policy, climate change, and disruptive technologies (amongst other topics). 
+
+We have a flat organization chart. Each project is led by the Director and is supported by our economists. 
+
+# About you
+To be successful in this role, you will bring: 
+
+- Experience in infrastructure, transport, and urban economics 
+
+- Familiarity with a wide range of data sources 
+
+- Experience working in Stats NZ IDI (using R, Stata, or SAS) 
+
+- Proposal and report writing skills 
+
+- Strong analytical and problem solving skills 
+
+Familiarity with economic theories and different methodologies, such as econometric techniques, IO analysis and CGE modelling, will be a bonus. Familiarity with ArcGIS packages will be a bonus.
+
+
+
+    
