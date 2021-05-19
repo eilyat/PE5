@@ -13,7 +13,10 @@ Ed:
 Phone: 
 weight: 3
 ---
-We are looking for one (senior) economist to join our team. 
+We are looking for one (senior) economist to join our team.
+-Using principles of Economics to provide advice on a wide range of topical issues
+-Working in an adhocracy and transparent organisational culture with supportive colleagues
+
 
 # About us
 
@@ -34,7 +37,7 @@ To be successful in this role, you will bring:
 
 -Strong analytical and problem solving skills 
 
-Familiarity with economic theories and different methodologies, such as econometric techniques, IO analysis and CGE modelling, will be a bonus. Familiarity with ArcGIS packages will be a bonus.
+Familiarity with economic theories and different methodologies, such as econometric techniques, IO analysis and CGE modelling, will be an advantage. Familiarity with ArcGIS packages will be a bonus.
 
 # Qualifications and experience 
 
