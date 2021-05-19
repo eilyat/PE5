@@ -36,6 +36,16 @@ To be successful in this role, you will bring:
 
 Familiarity with economic theories and different methodologies, such as econometric techniques, IO analysis and CGE modelling, will be a bonus. Familiarity with ArcGIS packages will be a bonus.
 
+# Qualifications and experience 
 
+Preferably you hold a have a first-class honours degree or higher qualification in Economics, Statistics, or related studies. We prioritise experienced candidates, with a minimum of five years relevant experience working in local or central government or consulting firms. 
 
-    
+# Application close 
+
+We encourage early applications as we begin shortlisting as we receive applications. The closing date is Friday 4th June 2021. 
+
+# Contact details 
+
+To apply, please send your CV to careers@principaleconomics.co.nz. 
+
+If you have any questions about this position, please send an email to eilya@principaleconomics.com.  
