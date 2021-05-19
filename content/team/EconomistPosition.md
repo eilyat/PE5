@@ -24,14 +24,10 @@ We have a flat organization chart. Each project is led by the Director and is su
 # About you
 To be successful in this role, you will bring: 
 
-* Experience in infrastructure, transport, and urban economics 
-
+- Experience in infrastructure, transport, and urban economics 
 - Familiarity with a wide range of data sources 
-
 - Experience working in Stats NZ IDI (using R, Stata, or SAS) 
-
 - Proposal and report writing skills 
-
 - Strong analytical and problem solving skills 
 
 Familiarity with economic theories and different methodologies, such as econometric techniques, IO analysis and CGE modelling, will be a bonus. Familiarity with ArcGIS packages will be a bonus.
