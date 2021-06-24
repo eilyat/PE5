@@ -1,0 +1,24 @@
+---
+date: "2021-06-24T7:30:00+10:00"
+draft: false
+heroBackground: "images/crowd.jpg"
+heroHeading: Eugene Isack
+heroSubHeading: Senior Economist
+
+thumbnail: "images/Eilya Torshizian.jpeg"
+photo: "images/Eugene Isack.jpeg"
+title: Dr Eilya Torshizian
+Education: PhD in Economics
+Ed: 'eugene@principaleconomics.com'
+Phone: '0064 21 1084783'
+weight: 3
+---
+Eugene is a Senior Economist at Principal Economics. Before joining Principal Economics Eugene was an Economist at New Zealand Institute of Economic Research (NZIER). Before that,  Eugene was an Economist at Property Economics. Eugene has over 12-years’ experience in the economic industry, with substantial involvement both in public and private sector advisement.
+
+# Experience
+
+- Lead data analyst for 'E-commerce exporting from New Zealand`. Estimating cross border e-commerce from New Zealand businesses for Ministry of Primary Industries. Providing an overview of global trends in domestic and international e-commerce adoption and value. Outputs from this analysis will be submitted to Cabinet in its review of legislative and regulatory policy for encouraging growth in export e-commerce. 
+
+- Lead analyst in 'Fair fare for Public Transport'. Estimating own and cross demand elasticities for public transport in the Auckland Region. Complex econometric modelling using public and private datasets, including Statistics NZ IDI microdata, Auckland Transport HOP card transactions, MBIE rental bond database and geospatial datasets. Outputs of this analysis were provided to Auckland Transport the determination of how changes in food, petrol, housing, and public transport prices affect public transport usage across Auckland Region suburbs. 
+
+- Private sector work in collaboration with Dr Milad Maralani to provide inputs for Computable General Equilibrium Modelling. Adapting spatial modelling techniques from econometric literature to determine the regional agglomeration benefits from the increased concentration of employment as result of a new industrial park. 
