@@ -9,7 +9,7 @@ thumbnail: "images/Alina Fehling.jpeg"
 photo: "images/Alina Fehling.jpeg"
 title: Alina Fehling
 Education: BSc
-Ed: Massey University 
+Ed: 'alina@principaleconomics.com' 
 weight: 2
 ---
 Alina is an Economist at Principal Economics. 
