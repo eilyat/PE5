@@ -5,8 +5,8 @@ heroBackground: "images/crowd.jpg"
 heroHeading: Eugene Isack
 heroSubHeading: Senior Economist
 
-thumbnail: "images/Eilya Torshizian.jpeg"
-photo: "images/Eugene Isack.jpeg"
+thumbnail: "images/Eugene Isack.jpg"
+photo: "images/Eugene Isack.jpg"
 title: Eugene Isack
 Education: BSc Economics
 Ed: 'eugene@principaleconomics.com'
@@ -14,6 +14,8 @@ Phone: '0064 21 1084783'
 weight: 3
 ---
 Eugene is a Senior Economist at Principal Economics. Before joining Principal Economics Eugene was an Economist at New Zealand Institute of Economic Research (NZIER). Before that,  Eugene was an Economist at Property Economics. Eugene has over 12-years’ experience in the economic industry, with substantial involvement both in public and private sector advisement.
+
+Eugene is experienced in econometric modeler, with specialised skills in geographic information systems, big data analysis and is a registered Statistics IDI Researcher. 
 
 # Experience
 
