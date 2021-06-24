@@ -7,8 +7,8 @@ heroSubHeading: Senior Economist
 
 thumbnail: "images/Eilya Torshizian.jpeg"
 photo: "images/Eugene Isack.jpeg"
-title: Dr Eilya Torshizian
-Education: PhD in Economics
+title: Eugene Isack
+Education: BSc Economics
 Ed: 'eugene@principaleconomics.com'
 Phone: '0064 21 1084783'
 weight: 3
