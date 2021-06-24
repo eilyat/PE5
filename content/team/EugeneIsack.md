@@ -19,8 +19,6 @@ Eugene is experienced in econometric modeler, with specialised skills in geograp
 
 # Experience
 
-- Lead data analyst for 'E-commerce exporting from New Zealand`. Estimating cross border e-commerce from New Zealand businesses for Ministry of Primary Industries. Providing an overview of global trends in domestic and international e-commerce adoption and value. Outputs from this analysis will be submitted to Cabinet in its review of legislative and regulatory policy for encouraging growth in export e-commerce. 
-
 - Lead analyst in 'Fair fare for Public Transport'. Estimating own and cross demand elasticities for public transport in the Auckland Region. Complex econometric modelling using public and private datasets, including Statistics NZ IDI microdata, Auckland Transport HOP card transactions, MBIE rental bond database and geospatial datasets. Outputs of this analysis were provided to Auckland Transport the determination of how changes in food, petrol, housing, and public transport prices affect public transport usage across Auckland Region suburbs. 
 
 - Private sector work in collaboration with Dr Milad Maralani to provide inputs for Computable General Equilibrium Modelling. Adapting spatial modelling techniques from econometric literature to determine the regional agglomeration benefits from the increased concentration of employment as result of a new industrial park. 
