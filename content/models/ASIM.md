@@ -14,4 +14,4 @@ To estimate the impact of policies on different household income groups, we offe
 
 In ASIM, each household has an affordability limit  based on their income levels, household size, wealth, mortgage rates, and the deposit ratio. Accordingly, the stock of housing (as determined based on the supply and demand analyses) will be allocated to the households at the highest price that they can afford to pay in an auction.  All households are classified as renters, first homeowners or investors who compete for the existing housing supply. ASIM captures the changes in price of dwellings and homeownership rates for different household demographic groups.
 
-![]<img scr="https://www.principaleconomics.com/images/ASIM_flow.svg" width = "50%">
+<img scr="https://www.principaleconomics.com/images/ASIM_flow.svg" width = "50%">
