@@ -5,7 +5,7 @@ featured: true
 heroBackground: services/service1.jpg
 heroHeading: CGE
 heroSubHeading: Economywide impact of policies and investments
-icon: services/service-icon-1.png
+icon: services/service-icon-5.png
 title: Computational General Equilibrium Model
 weight: 2
 ---
