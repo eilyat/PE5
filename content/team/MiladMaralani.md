@@ -6,7 +6,7 @@ heroHeading: Milad Maralani
 heroSubHeading: Senior Economist
 
 thumbnail: "images/Milad.png"
-photo: "images/Milad.jpg"
+photo: "images/Milad.png"
 title: Dr Milad Maralani
 Education: PhD in Economics
 Ed: 'milad@principaleconomics.com'
