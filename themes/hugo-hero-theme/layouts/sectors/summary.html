@@ -1,0 +1,15 @@
+<div class="model model-summary">
+   {{ if .Params.thumbnail }}
+  <div class="model-image" style="max-height:400px">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
+  </div>
+  {{ end }}
+  <div class="model-content">
+    <h2 class="model-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ .Content | truncate 240 "..." | plainify }}
+  </div>
+</div>
+<meta name="description" content="Economic consultant, research, policy, economic impact, cost benefit analysis, community, inclusive growth, regeneration, wellbeing, Eilya Torshizian" />
+

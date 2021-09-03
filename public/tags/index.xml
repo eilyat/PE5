@@ -2,39 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Principal Economics</title>
-    <link>www.principaleconomics.com/tags/</link>
+    <link>https://www.principaleconomics.com/tags/</link>
     <description>Recent content in Tags on Principal Economics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
-    
-	<atom:link href="www.principaleconomics.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="https://www.principaleconomics.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plot</title>
-      <link>www.principaleconomics.com/tags/plot/</link>
+      <link>https://www.principaleconomics.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>www.principaleconomics.com/tags/plot/</guid>
+      <guid>https://www.principaleconomics.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>www.principaleconomics.com/tags/r-markdown/</link>
+      <link>https://www.principaleconomics.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>www.principaleconomics.com/tags/r-markdown/</guid>
+      <guid>https://www.principaleconomics.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>www.principaleconomics.com/tags/regression/</link>
+      <link>https://www.principaleconomics.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>www.principaleconomics.com/tags/regression/</guid>
+      <guid>https://www.principaleconomics.com/tags/regression/</guid>
       <description></description>
     </item>
     

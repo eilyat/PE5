@@ -1,10 +1,9 @@
 ---
 date: "2020-09-18T7:30:00+10:00"
 draft: false
-heroBackground: images/crowd.jpg
+heroBackground: "images/team.jpg"
 heroHeading: Alina Fehling
 heroSubHeading: Economist
-
 thumbnail: "images/Alina Fehling.jpeg"
 photo: "images/Alina Fehling.jpeg"
 title: Alina Fehling

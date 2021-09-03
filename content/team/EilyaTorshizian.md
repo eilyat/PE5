@@ -15,14 +15,14 @@ weight: 1
 ---
 Eilya is the Director of Principal Economics. Before founding Principal Economics Eilya was a Principal Economist and the Head of Quantitative Analysis Team at New Zealand Institute of Economic Research (NZIER). Prior to that, when Auckland was in the middle of its recent housing crisis, Eilya was at the Chief Economist Unit of Auckland Council. Before that Eilya was lecturing at the University of Auckland. Before that Eilya was the CE of a mineral water manufacturing and was a partner at a holding company active in urban planning and construction, Information Technology and economic advice.
 
-# Memberships
+# Memberships  
 
-- Member, Institute of Directors.
-- Member, Regional Science Association Institute.
-- Member, Western Economic Association International.
-- Member, Resilient Urban Futures’ infrastructure research team.
-- Member, New Zealand Association of Economists.
-- Reviewer, Journal of Economic Psychology.
+ - Member, Institute of Directors.  
+ - Member, Regional Science Association Institute.  
+ - Member, Western Economic Association International.  
+ - Member, Resilient Urban Futures’ infrastructure research team.  
+ - Member, New Zealand Association of Economists.  
+ - Reviewer, Journal of Economic Psychology.  
 
 # Recent publications
 

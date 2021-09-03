@@ -1,7 +1,7 @@
 ---
 title: 'Frontier economics, practical applications'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/home_frontier.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---

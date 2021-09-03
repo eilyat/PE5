@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="85"
+   height="85"
+   overflow="hidden"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="economic-impact-analysis.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="10.258824"
+     inkscape:cx="42.548737"
+     inkscape:cy="42.548737"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clip0">
+      <rect
+         x="0"
+         y="0"
+         width="85"
+         height="85"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip0)"
+     id="g11"
+     style="fill:#003399;fill-opacity:1">
+    <path
+       d="M67.3386 65.512 72.6042 70.8183C72.6076 70.8217 72.6075 70.8274 72.6041 70.8308 72.6024 70.8324 72.6003 70.8333 72.598 70.8333L14.2047 70.8333 14.2047 12.4162C14.2048 12.4113 14.2088 12.4074 14.2137 12.4074 14.216 12.4075 14.2182 12.4084 14.2198 12.41L19.5181 17.7083 20.7701 16.4564 13.3105 8.99583 5.85969 16.4466 7.11167 17.6995 12.418 12.3958C12.422 12.3924 12.4282 12.3929 12.4317 12.397 12.4329 12.3984 12.4336 12.4002 12.4339 12.402L12.4339 72.6042 72.5944 72.6042C72.5993 72.6043 72.6032 72.6082 72.6032 72.6131 72.6031 72.6154 72.6022 72.6176 72.6006 72.6192L67.3306 77.9167 68.5826 79.1686 76.0414 71.709 68.5906 64.2582Z"
+       id="path7"
+       style="fill:#003399;fill-opacity:1" />
+    <path
+       d="M21.3173 61.9792C24.4667 61.8738 32.9897 59.121 41.712 52.6079 47.5956 57.1747 54.5178 60.2146 61.8614 61.4568L62.1722 59.7143C55.2697 58.5404 48.7537 55.7133 43.1809 51.4746 51.8453 44.6606 58.3671 35.4983 61.9685 25.0803L60.2969 24.503C56.7663 34.7376 50.3405 43.727 41.7996 50.3802 32.5727 42.7408 27.3293 32.1681 23.8806 23.576L22.2364 24.2365C25.7355 32.9517 31.0321 43.6546 40.3352 51.4932 32.1318 57.5415 24.2153 60.1101 21.258 60.2083Z"
+       id="path9"
+       style="fill:#003399;fill-opacity:1" />
+  </g>
+</svg>

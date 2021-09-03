@@ -2,40 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work on Principal Economics</title>
-    <link>www.principaleconomics.com/work/</link>
+    <link>https://www.principaleconomics.com/work/</link>
     <description>Recent content in Work on Principal Economics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
-    
-	<atom:link href="www.principaleconomics.com/work/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://www.principaleconomics.com/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economic impact of COVID-19</title>
-      <link>www.principaleconomics.com/work/fall-plaza/</link>
+      <link>https://www.principaleconomics.com/work/covid/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>www.principaleconomics.com/work/fall-plaza/</guid>
-      <description>Assist with assessment of the impact of COVID-19 on demand for your investments.</description>
+      <guid>https://www.principaleconomics.com/work/covid/</guid>
+      <description>We assisted with assessments of the impact of COVID-19 on demand for a range of services.
+Recent work: We assisted with Chorus&amp;rsquo;s submission to Commerce Commission to account for the impact of COVID-19 on the forecasts for the cost escalation series.
+Since the data is not available yet and it will take some time for any published data to fully capture the impact of the COVID-19, we use simulation methods, based on stylised facts, to estimate the likely impact.</description>
     </item>
     
     <item>
-      <title>Tourism industry</title>
-      <link>www.principaleconomics.com/work/modern-hospital/</link>
+      <title>Infrastructure and the economy</title>
+      <link>https://www.principaleconomics.com/work/infrastructure/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>www.principaleconomics.com/work/modern-hospital/</guid>
-      <description>Economic impact of regional investments in tourism industry.</description>
+      <guid>https://www.principaleconomics.com/work/infrastructure/</guid>
+      <description>We have assisted our clients to capture the primary and secondary impact of infrastructure investments</description>
+    </item>
+    
+    <item>
+      <title>Population and demographic profiles</title>
+      <link>https://www.principaleconomics.com/work/population-demography/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.principaleconomics.com/work/population-demography/</guid>
+      <description>Our population and demographic model provides decision support for the development of long term plans, transport modelling, public transport patronage and revenue forecasts, water infrastructure modelling and the development of asset management and infrastructure investment plans.
+For more information contact Alina Fehling.
+Relevant work: Torshizian, E. &amp;amp; Isack, E. 2020. Fair fare for public transport. Auckland Transport.
+Torshizian, E. 2020. Impact of Covid-19 on real price indices. Chorus&amp;rsquo;s submission to Commerce Commision.</description>
     </item>
     
     <item>
       <title>Investments in the energy sector</title>
-      <link>www.principaleconomics.com/work/cargo-terminal/</link>
+      <link>https://www.principaleconomics.com/work/energy/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>www.principaleconomics.com/work/cargo-terminal/</guid>
-      <description>Providing advice and forecasts of the areas of investment in the energy sector.</description>
+      <guid>https://www.principaleconomics.com/work/energy/</guid>
+      <description>Providing advice and forecasts of the areas of investment in the energy sector.
+Relevant reports Multiple reports on demand and demand peak (will be available on our clients&#39; website).</description>
+    </item>
+    
+    <item>
+      <title>Social Cost Benefit Analysis</title>
+      <link>https://www.principaleconomics.com/work/scbaf/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.principaleconomics.com/work/scbaf/</guid>
+      <description>We developed the Social Cost Benefit Framework (SCBAF) for impact evaluation of individual interventions, with a focus on employment assistance (EA) programmes.
+This report provides an outline of a social cost benefit framework (SCBAF) that is designed to ensure decision-makers are aware of the trade-offs that the communities face as a result of an intervention.
+For more information contact Eilya Torshizian.</description>
     </item>
     
   </channel>

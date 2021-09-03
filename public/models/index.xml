@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Models on Principal Economics</title>
+    <link>https://www.principaleconomics.com/models/</link>
+    <description>Recent content in Models on Principal Economics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jun 2021 12:33:46 +1000</lastBuildDate><atom:link href="https://www.principaleconomics.com/models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energy, Environment and Economy NZ (E3-NZ)</title>
+      <link>https://www.principaleconomics.com/models/e3/</link>
+      <pubDate>Wed, 30 Jun 2021 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.principaleconomics.com/models/e3/</guid>
+      <description>Our Energy, Environment and Economy NZ (E3-NZ) model provides a realistic replication of real-world behaviour of individuals and industries and allows for the possibility of fundamental uncertainty. People and businesses know that there are “unknown unknowns” in the economy and may choose to plan accordingly
+E3-NZ is the most comprehensive economic model of the New Zealand (NZ) regions’ economies. Developed in partnership with Cambridge Econometrics (University of Cambridge). Principal Economics is the only provider of a macroeconometric model of the NZ economy.</description>
+    </item>
+    
+    <item>
+      <title>Computational General Equilibrium (CGE)</title>
+      <link>https://www.principaleconomics.com/models/cge/</link>
+      <pubDate>Wed, 30 Jun 2021 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.principaleconomics.com/models/cge/</guid>
+      <description>Our Computational General Equilibrium (CGE) model captures all economic interactions in the New Zealand economy, including trade and spending between firms on one another’s goods and inputs; spending by consumers on goods; investment decisions; and dynamics in the market such as demand for factors such as capital and labour, trade, employment and wage effects.
+CGE models are a class of economic models that estimate how an economy might react to changes in policy, technology or other external factors.</description>
+    </item>
+    
+    <item>
+      <title>Sub-regional Economic Activity Model (SEAM)</title>
+      <link>https://www.principaleconomics.com/models/seam/</link>
+      <pubDate>Wed, 30 Jun 2021 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.principaleconomics.com/models/seam/</guid>
+      <description>Our Sub-regional Economic Activity Model (SEAM) provides details on the socioeconomic features of households, their choice of location and the economic activities of New Zealand industries. Our stochastic microsimulation framework accounts for the inflows and outflows of population are affected by both factors of Quality of life (QL) and Quality of Business (QB).
+Quality of Life is affected by proximity to amenities and facilities, the endowments of an area (such as proximity to coastlines and greenspace and the hours of sunshine), and the cost of living.</description>
+    </item>
+    
+    <item>
+      <title>Housing Affordability Simulation (ASIM)</title>
+      <link>https://www.principaleconomics.com/models/asim/</link>
+      <pubDate>Wed, 30 Jun 2021 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.principaleconomics.com/models/asim/</guid>
+      <description>To estimate the impact of policies on different household income groups, we offer our Housing Affordability Simulation Model (ASIM). In ASIM, each household has an affordability limit based on their income levels, household size, wealth, mortgage rates, and the deposit ratio. Accordingly, the stock of housing (as determined based on the supply and demand analyses) will be allocated to the households at the highest price that they can afford to pay in an auction.</description>
+    </item>
+    
+  </channel>
+</rss>

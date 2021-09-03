@@ -1,14 +1,15 @@
-<div class="service service-summary">
-  {{ if .Params.icon }}
-  <div class="service-image">
-    <img src="{{ .Site.BaseURL }}{{ .Params.icon }}"/>
+<div class="model model-summary">
+   {{ if .Params.thumbnail }}
+  <div class="model-image" style="max-height:400px">
+    <a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail | relURL }}"/></a>
   </div>
   {{ end }}
-  <div class="service-content">
-    <h2 class="service-title">
+  <div class="model-content">
+    <h2 class="model-title">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
-    {{ .Content | truncate 120 "..." }}
+    {{ .Content | truncate 240 "..." }}
   </div>
 </div>
 <meta name="description" content="Economic consultant, research, policy, economic impact, cost benefit analysis, community, inclusive growth, regeneration, wellbeing, Eilya Torshizian" />
+
