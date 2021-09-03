@@ -1,7 +1,11 @@
 ---
 date: "2021-06-24T7:30:00+10:00"
 draft: false
+<<<<<<< HEAD
 heroBackground: "images/team.jpg"
+=======
+heroBackground: "images/crowd.jpg"
+>>>>>>> ecee4c5fdba5c403804967d9099497c2f61d664f
 heroHeading: Milad Maralani
 heroSubHeading: Senior Economist
 
@@ -18,7 +22,11 @@ Milad is a Senior Economist at Principal Economics. He is an applied economist w
 Milad has received multiple funding from the University of Auckland and the Ministry of Business, Innovation and Employment (MBIE) during his PhD studies.
 
 
+<<<<<<< HEAD
 ## Projects that Milad has been involved in include:
+=======
+Here is a sample list of projects that Milad involved:
+>>>>>>> ecee4c5fdba5c403804967d9099497c2f61d664f
 
 
 - The economic effects of water quality proposals: Modelling scenarios (Resource economics and Ministry for the Environment)
