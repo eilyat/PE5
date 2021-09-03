@@ -19,7 +19,7 @@ weight: 4
 ---
 Milad is a Senior Economist at Principal Economics. He is an applied economist with a strong background in understanding and modelling of how economic agents and sectors are linked and interact in response to programmes and policy changes. Before joining Principal Economics, Milad worked as an economist at the New Zealand Institute of Economic Research (NZIER) where he was responsible for CGE modelling of many in-place or proposed policies and investments in New Zealand. Before that, he worked at Energy Research Centre at Auckland university where he developed and adopted economic models on energy issues in New Zealand.
 
-Milad has received multiple funding from the University of Auckland and the Ministry of Business, Innovation and Employment (MBIE) during his PhD studies.
+Miladhas received multiple funding from the University of Auckland and the Ministry of Business, Innovation and Employment (MBIE) during his PhD studies.
 
 
 <<<<<<< HEAD
